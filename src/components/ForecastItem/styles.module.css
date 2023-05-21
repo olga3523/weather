@@ -1,0 +1,11 @@
+
+.itemElement{
+    border:1px solid #ddd;
+    border-radius: 10px;
+    list-style-type: none;
+    display:flex;
+    align-items: center;
+    padding: 5px 10px;
+    width: 100%;
+    gap:10px;
+}

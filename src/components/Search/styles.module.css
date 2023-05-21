@@ -1,0 +1,25 @@
+
+
+.search {
+    display:flex; 
+    width: 100%;
+    
+}
+.search input{
+    border: none;
+    border: 1px solid grey;
+    padding:2px;
+}
+.search button{
+    color:rgb(244, 165, 18);
+    text-align: center;
+    border:none;
+    width: 100%;
+    background-color: transparent;
+    border:1px solid grey;
+    padding:2px;
+
+}
+
+
+
